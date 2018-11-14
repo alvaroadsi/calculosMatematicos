@@ -21,5 +21,14 @@ namespace calculosMatematicos
         {
             Form1.SegAreaCua = 1;
         }
+
+        private void BtnCalcular_Click(object sender, EventArgs e)
+        {
+            int lado;
+            int area;
+            lado = int.Parse(textBox1.Text);
+            area = lado * lado;
+            Resultado.Text = $"El área del cuadrado es: {area.ToString()}";
+        }
     }
 }
