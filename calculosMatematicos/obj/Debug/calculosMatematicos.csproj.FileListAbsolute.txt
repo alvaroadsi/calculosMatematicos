@@ -10,3 +10,15 @@ C:\Users\Alvaro\Documents\Visual Studio 2017\Projects\calculosMatematicos\calcul
 C:\Users\Alvaro\Documents\Visual Studio 2017\Projects\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.csproj.CoreCompileInputs.cache
 C:\Users\Alvaro\Documents\Visual Studio 2017\Projects\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.exe
 C:\Users\Alvaro\Documents\Visual Studio 2017\Projects\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.pdb
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\bin\Debug\calculosMatematicos.exe.config
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\bin\Debug\calculosMatematicos.exe
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\bin\Debug\calculosMatematicos.pdb
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.csprojAssemblyReference.cache
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.AreaCirculo.resources
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.AreaCuadrado.resources
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.Form1.resources
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.Properties.Resources.resources
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.csproj.GenerateResource.cache
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.exe
+C:\Users\Lopez\Documents\GitHub\calculosMatematicos\calculosMatematicos\obj\Debug\calculosMatematicos.pdb
