@@ -22,5 +22,24 @@ namespace calculosMatematicos
             Form1.SegAreaCir = 0;
             
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            float radio;
+            double area;
+            radio = float.Parse(textBox1.Text);
+
+            area = Math.PI * Math.Pow(radio, 2);
+
+            LabelArea.Text = "El área del circulo es "+ area.ToString();
+            
+
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
